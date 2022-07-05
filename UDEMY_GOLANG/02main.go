@@ -10,9 +10,9 @@ var z int
 //enquanto nao ha valor atribuido para uma variavel: 0 inteiros, false boolean, 0.0 float, -- string.
 
 func main() {
-	x := 42 //declaracao curta é pra ser usada dentro da funcao main.
+	xxx := 42 //declaracao curta é pra ser usada dentro da funcao main.
 
-	fmt.Println(x)
+	fmt.Println(xxx)
 
 	fmt.Println(y)
 
